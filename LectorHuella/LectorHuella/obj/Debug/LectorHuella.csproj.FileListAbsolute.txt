@@ -1,0 +1,17 @@
+C:\Users\ITAdmin\source\repos\LectorHuella\LectorHuella\bin\Debug\LectorHuella.exe.config
+C:\Users\ITAdmin\source\repos\LectorHuella\LectorHuella\bin\Debug\LectorHuella.exe
+C:\Users\ITAdmin\source\repos\LectorHuella\LectorHuella\bin\Debug\LectorHuella.pdb
+C:\Users\ITAdmin\source\repos\LectorHuella\LectorHuella\bin\Debug\DPCtlUruNet.dll
+C:\Users\ITAdmin\source\repos\LectorHuella\LectorHuella\bin\Debug\DPUruNet.dll
+C:\Users\ITAdmin\source\repos\LectorHuella\LectorHuella\bin\Debug\MySql.Data.dll
+C:\Users\ITAdmin\source\repos\LectorHuella\LectorHuella\obj\Debug\LectorHuella.csprojAssemblyReference.cache
+C:\Users\ITAdmin\source\repos\LectorHuella\LectorHuella\obj\Debug\LectorHuella.Frm_DetectaLector.resources
+C:\Users\ITAdmin\source\repos\LectorHuella\LectorHuella\obj\Debug\LectorHuella.Frm_Enrol.resources
+C:\Users\ITAdmin\source\repos\LectorHuella\LectorHuella\obj\Debug\LectorHuella.Main.resources
+C:\Users\ITAdmin\source\repos\LectorHuella\LectorHuella\obj\Debug\LectorHuella.Properties.Resources.resources
+C:\Users\ITAdmin\source\repos\LectorHuella\LectorHuella\obj\Debug\LectorHuella.csproj.GenerateResource.cache
+C:\Users\ITAdmin\source\repos\LectorHuella\LectorHuella\obj\Debug\LectorHuella.csproj.CoreCompileInputs.cache
+C:\Users\ITAdmin\source\repos\LectorHuella\LectorHuella\obj\Debug\LectorHuella.csproj.CopyComplete
+C:\Users\ITAdmin\source\repos\LectorHuella\LectorHuella\obj\Debug\LectorHuella.exe
+C:\Users\ITAdmin\source\repos\LectorHuella\LectorHuella\obj\Debug\LectorHuella.pdb
+C:\Users\ITAdmin\source\repos\LectorHuella\LectorHuella\obj\Debug\LectorHuella.Frm_Identificar.resources
